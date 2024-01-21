@@ -1,4 +1,4 @@
-local notifications = loadstring(game:HttpGet("сюда ссылку на файл notify.lua"))()
+local notifications = loadstring(game:HttpGet("https://raw.githubusercontent.com/Internl/scripts/main/Notify.lua"))()
 
 notifications.prompt('Activated', 'Anti-stealer activated', 20)
 
